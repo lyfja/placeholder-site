@@ -1,0 +1,32 @@
+h1
+{ font-size: 400%; 
+  text-align: center;
+  color: white;
+  font-family: Arial, Liberation Sans; }
+
+body
+{ font-size: small;
+  text-align: justify;
+  line-height: 1.5;
+  color: white;
+  font-family: Arial, Liberation Sans; }
+
+p
+{ margin: 200px; 
+  font-size: 150%; }
+
+table
+{ font-size: 150%; }
+
+*
+{  background: url(glitchcity.png) no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+}
+
+table
+{ font-size: 200%; }
+
+a { text-decoration: none; }
